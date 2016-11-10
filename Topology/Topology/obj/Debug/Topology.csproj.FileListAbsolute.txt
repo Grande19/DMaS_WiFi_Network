@@ -1,0 +1,6 @@
+C:\Users\defaultuser0\Documents\Universidad\Gliwice\DMaS\Topology\Topology\bin\Debug\Topology.exe.config
+C:\Users\defaultuser0\Documents\Universidad\Gliwice\DMaS\Topology\Topology\bin\Debug\Topology.exe
+C:\Users\defaultuser0\Documents\Universidad\Gliwice\DMaS\Topology\Topology\bin\Debug\Topology.pdb
+C:\Users\defaultuser0\Documents\Universidad\Gliwice\DMaS\Topology\Topology\obj\Debug\Topology.csprojResolveAssemblyReference.cache
+C:\Users\defaultuser0\Documents\Universidad\Gliwice\DMaS\Topology\Topology\obj\Debug\Topology.exe
+C:\Users\defaultuser0\Documents\Universidad\Gliwice\DMaS\Topology\Topology\obj\Debug\Topology.pdb
